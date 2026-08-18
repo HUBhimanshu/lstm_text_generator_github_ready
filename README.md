@@ -1,0 +1,1 @@
+# lstm_text_generator_github_ready
