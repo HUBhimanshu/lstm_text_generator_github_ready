@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# TensorFlow / Keras generated files
+*.h5
+*.keras
+
+# Training history
+training_history.npz
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
